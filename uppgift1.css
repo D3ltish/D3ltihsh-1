@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: #0059ff;
+}
+
+.h1 {
+    font-style: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.EEDAT {
+    background-color: rgb(240, 0, 148);
+    color: rgb(43, 255, 0);
+    text-align: center;
+}
+
+.tankar {
+    text-align: right;
+}
+
+.teknikum {
+    text-decoration-line: none;
+}
+
+.martin {
+    border-style: solid;
+    border-color: rgb(0, 255, 34);
+
+}
